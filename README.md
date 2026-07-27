@@ -56,9 +56,5 @@ python app.py
 - Deploy on cloud (Render/Heroku/AWS)
 - Add caption history/logging
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
 
-## 📄 License
-This project is open source and available under the MIT License.
 
